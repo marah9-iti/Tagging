@@ -1,0 +1,547 @@
+Category,Name,Identifiers
+P&ID Connector,Utility Off-Page Connector,740,742,744,746,748
+P&ID Connector,Utility Off-Page Connector,1860,1862,1864,1866,1868
+P&ID Connector,Utility Off-Page Connector,2044,2046,2048,2050,2052
+P&ID Connector,Utility Off-Page Connector,3250,3252,3254,3256,3258
+P&ID Connector,Utility Off-Page Connector,6898,6900,6902,6904,6906
+P&ID Connector,Utility Off-Page Connector,8018,8020,8022,8024,8026
+P&ID Connector,Utility Off-Page Connector,8188,8190,8192,8194,8196
+P&ID Connector,Utility Off-Page Connector,8894,8896,8898,8900,8902
+P&ID Connector,Utility Off-Page Connector,9814,9816,9818,9820,9822
+P&ID Connector,Utility Off-Page Connector,310,312,314,316,318
+P&ID Connector,Utility Off-Page Connector,1090,1092,1094,1096,1098
+P&ID Connector,Flange,5652,5650
+P&ID Connector,Flange,4516,4518
+P&ID Connector,Flange,4038,4040
+P&ID Connector,Flange,5874,5876
+P&ID Connector,Flange,4042,4044
+P&ID Connector,Flange,6278,6280,896
+P&ID Connector,Flange,6272,6274
+P&ID Connector,Flange,6260,6262,3994
+P&ID Connector,Flange,6316,6318
+P&ID Connector,Flange,7090,7094
+P&ID Connector,Flange,8604,8606,8610
+P&ID Connector,Flange,5888,5890,
+P&ID Connector,Flange,5866,5868,5870
+P&ID Connector,Flange,4328,4330,5842
+P&ID Connector,Flange,9214,9212,8600
+P&ID Connector,Blind Flange,7330,7332,7334,7336
+P&ID Connector,Blind Flange,7338,7340,7342,7344
+P&ID Connector,Blind Flange,7322,7324,7326,7328,
+P&ID Connector,Blind Flange,2212,2214,2216,2218,
+P&ID Connector,Blind Flange,7314,7316,7318,7320,
+P&ID Connector,Blind Flange,4378,4380,4382,4384,
+P&ID Connector,Blind Flange,5528,5530,5532,5534,
+P&ID Connector,Blind Flange,5520,5522,5524,5526
+P&ID Connector,Blind Flange,7346,7348,7350,7352,
+P&ID Connector,Blind Flange,5560,5562,5564,5566,
+P&ID Connector,Blind Flange,5536,5538,5540,5542,
+P&ID Connector,Blind Flange,5544,5546,5548,5550
+P&ID Connector,Blind Flange,2138,2140,2142,2144,
+P&ID Connector,Blind Flange,5552,5554,5556,5558
+P&ID Connector,Nozzle,1248,1250
+P&ID Connector,Nozzle,1558,1560
+P&ID Connector,Nozzle,1322,1324
+P&ID Connector,Nozzle,1360,1362
+P&ID Connector,Centric Reducer,7486,7488,7490,7492
+P&ID Connector,Centric Reducer,86,88,90,92
+P&ID Connector,Centric Reducer,7508,7510,7512,7514
+P&ID Connector,Centric Reducer,9218,9220,9222,9224
+P&ID Connector,Centric Reducer,9228,9230,9232,9234
+P&ID Connector,Centric Reducer,5792,5794,5796,5798
+P&ID Connector,Centric Reducer,9238,9240,9242,9244,9246
+P&ID Connector,Centric Reducer,9580,9582,9584,9586,9588
+P&ID Connector,Spectacle Blind Normally Open,1254,1280,1282,1284,1286
+P&ID Connector,Spectacle Blind Normally Open,1288,1314,1316,1318,1320
+P&ID Connector,Spectacle Blind Normally Open,1326,1352,1354,1356,1358
+P&ID Connector,Spectacle Blind Normally Open,1562,1588,1590,1592,1594
+P&ID Connector,Hose Connector,6574,6576,6578
+P&ID Connector,Hose Connector,5800,5802,5804
+P&ID Connector,Hose Connector,2718,2720,2722
+P&ID Connector,Hose Connector,2724,2726,2728
+P&ID Connector,Hose Connector,5398,5400,5402
+P&ID Connector,Hose Connector,4372,4374,4376
+P&ID Connector,Hose Connector,2324,2326,2328
+P&ID Connector,Hose Connector,2330,2332,2334
+P&ID Connector,Hose Connector,7356,7358,7360
+P&ID Connector,Hose Connector,4144,4146,4148
+P&ID Connector,Hose Connector,4150,4152,4154
+P&ID Connector,Hose Connector,2220,2222,2224
+P&ID Connector,Hose Connector,2206,2208,2210
+P&ID Connector,Hose Connector,2436,2438,2440
+P&ID Connector,Hose Connector,2404,2406,2408
+P&ID Connector,Hose Connector,2430,2432,2434
+P&ID Connector,Hose Connector,2146,2148,2150
+P&ID Connector,Hose Connector,2132,2134,2136
+P&ID Connector,Hose Connector,2116,2118,2120
+P&ID Connector,Hose Connector,9592,9594,9596
+P&ID Connector,Hose Connector,3482,3484,3486
+P&ID Connector,Hose Connector,3488,3490,3492
+P&ID Connector,Hose Connector,3348,3350,3352
+P&ID Connector,Hose Connector,3354,3356,3358
+P&ID Connector,Y-Type Strainrt,378,380,382,384,386,434
+P&ID Connector,Y-Type Strainrt,2920,2922,2924,2926,2928,2892
+P&ID Connector,Y-Type Strainrt,2972,2974,2976,2978,2980,3008
+P&ID Connector,Y-Type Strainrt,3758,3760,3762,3764,3766,3794,7382
+P&ID Connector,Y-Type Strainrt,4702,4704,4706,4708,4710,4738
+P&ID Connector,Y-Type Strainrt,4772,4774,4776,4778,4780,4744
+P&ID Connector,Y-Type Strainrt,7712,7714,7716,7718,7720,7614,7684
+P&ID Connector,Y-Type Strainrt,8622,8624,8626,8628,8630,8678,8632
+P&ID Connector,Swivel Joint,1686,
+P&ID Connector,Swivel Joint,5658
+P&ID Instrument,Correcting Element,9438,9440,9442,9444,9446
+P&ID Instrument,Shared Indicator,1648,1650,1652,1654,1656,1658,1660,1662,1664,1666,1668,1670
+P&ID Instrument,Shared Indicator,2772,2774,2776,2778,2780,2782,2784,2786,2788,2790,2792
+P&ID Instrument,Shared Indicator,2804,2806,2808,2810,2812,2814,2816,2818,2820,2822,2824,2826,2828,7272
+P&ID Instrument,Shared Indicator,2830,2832,2834,2836,2838,2840,2842,2844,2846,2848,2850,2854,2856
+P&ID Instrument,Shared Indicator,3442,3444,3446,3448,3450,3452,3454,3456,3458,3460,3462
+P&ID Instrument,Shared Indicator,7398,7400,7402,7404,7406,7408,7410,7412,7414,7416,7418
+P&ID Instrument,Shared Indicator,9022,9024,9026,9028,9030,9032,9034,9036,9038,9040,9042,9090,9092
+P&ID Instrument,Shared Indicator,9044,9046,9048,9050,9052,9054,9056,9058,9060,9062,9064,9106
+P&ID Instrument,Shared Indicator,9066,9068,9070,9072,9074,9076,9078,9080,9082,9084,9086,9088
+P&ID Instrument,Shared Indicator,1200,1202,1204,1206,1208,1210,1212,1214,1216,1218,1220,1222
+P&ID Instrument,Indicator,3822,3824,3826,3828,8378,8598
+P&ID Instrument,Indicator,10074,10076,10078,10082,10083,
+P&ID Instrument,Indicator,3874,3876,3878,3880,
+P&ID Instrument,Indicator,4076,4078,4080,4082,
+P&ID Instrument,Indicator,1192,1194,1196,1198,8602
+P&ID Instrument,Indicator,10018,,10012,10014,10004,10006,10008,10010,10016
+P&ID Instrument,Indicator,1484,1486,1488,1490,
+P&ID Instrument,Indicator,9014,9016,9018,9020,9578
+P&ID Instrument,Indicator,2756,2758,2760,2762,2702
+P&ID Instrument,Indicator,4332,4334,4336,4338
+P&ID Instrument,Indicator,7112,7114,7116,7118,
+P&ID Instrument,Indicator,7120,7122,7124,7126,
+P&ID Instrument,Indicator,7236,7238,7240,7242,,9294,7392
+P&ID Instrument,Indicator,7262,7264,7266,7268,
+P&ID Instrument,Indicator,2794,2796,2798,2800,
+P&ID Instrument,Indicator,3468,3470,3472,3474,,3524
+P&ID Instrument,Indicator,4134,4136,4138,4140,,1176
+P&ID Instrument,Indicator,62,64,66,68
+P&ID Instrument,Indicator,76,78,80,82
+P&ID Instrument,Pointer,1508,1510,1512,1514,1516,1518,1520
+P&ID Instrument,Pointer,7246,7248,7250,7252,7254,7256,7258
+P&ID Instrument,Pointer,7744,7746,7748,7750,7752,7754,7756
+P&ID Instrument,Pointer,1494,1496,1498,1500,1502,1504,1506
+P&ID Instrument,Pointer,2556,2558,2560,2562,2564,2566,2568
+P&ID Instrument,Pointer,2636,2638,2640,2642,2644,2646,2648
+P&ID Instrument,Pointer,2858,2860,2862,2864,2866,2868,2870
+P&ID Instrument,Pointer,3320,3322,3324,3326,3328,3330,3332
+P&ID Instrument,Pointer,4898,4900,4902,4904,4906,4908,4910
+P&ID Instrument,Pointer,8562,8564,8566,8568,8570,8572,8574
+P&ID Instrument,Steam Trap,388,390,392,394,396
+P&ID Instrument,Steam Trap,2930,2932,2934,2936,2938
+P&ID Instrument,Steam Trap,2962,2964,2966,2968,2970
+P&ID Instrument,Steam Trap,3748,3750,3752,3754,3756
+P&ID Instrument,Steam Trap,4692,4694,4696,4698,4700
+P&ID Instrument,Steam Trap,4782,4784,4786,4788,4790
+P&ID Instrument,Steam Trap,,7722,7724,7726,7728,7730
+P&ID Instrument,Steam Trap,8668,8670,8672,8674,8676
+P&ID Line,Instrument Connector,70,
+P&ID Line,Instrument Connector,4340
+P&ID Line,Instrument Connector,1492
+P&ID Line,Instrument Connector,84
+P&ID Line,Instrument Connector,7092
+P&ID Line,Instrument Connector,9216
+P&ID Line,Jacket,5044,5046,5048,2456,2462,1676,4914,4918,9952,9954,9956,9958,9966,9968,9964,9960,9962,1674,2464,2454,4916
+P&ID Line,Jacket,2452,2444,1678,6216,2450,2442,1680,2570,2572,2574,2578,2580,2582,2584,2586,6214,6208,6210,6212,2576
+P&ID Line,Jacket,4388,4390
+P&ID Line,Jacket,7310,7292,7306,7294,7298,7302,7304,7296,7300,7308
+P&ID Line,Jacket,5570,5588,5574,5586,5576,5578,5582,5572,5580,5584
+P&ID Line,Electrical Signalc,3882
+P&ID Line,Electrical Signal,4142
+P&ID Line,Electrical Signal,2764
+P&ID Line,Electrical Signal,9414
+P&ID Line,Electrical Signal,3466
+P&ID Line,Electrical Signal,1672
+P&ID Line,Electrical Signal,7128
+P&ID Line,Electrical Signal,7244
+P&ID Line,Electrical Signal,7270
+P&ID Line,Electrical Signal,1226
+P&ID Line,Electrical Signal,10080
+P&ID Line,Electrical Signal,3830
+P&ID Line,Electrical Signal,9098,9096,9094
+P&ID Line,Electrical Signal,9104,9102,9100
+P&ID Line,Electrical Signal,2802,
+P&ID Line,Electrical Signal,9412,9390,9392,
+P&ID Line,Electrical Signal,2852
+P&ID Line,Electrical Signal,7438,
+P&ID Line,Electrical Signal,10127,10089,10087,10085,10046
+P&ID Line,Electrical Signal,1224
+P&ID Line,Electrical Signal,818
+P&ID Line,Piping,6642,6580
+P&ID Line,Piping,4514
+P&ID Line,Piping,5648
+P&ID Line,Piping,350,352,354,356,358,360,362,436,438,432,
+P&ID Line,Piping,750,752,754,756,758,760,762,60,8608,548,6042,
+P&ID Line,Piping,6452,7380
+P&ID Line,Piping,8504
+P&ID Line,Piping,3478,3550,3674,7596,3476,5178
+P&ID Line,Piping,784,
+P&ID Line,Piping,8730
+P&ID Line,Piping,7526
+P&ID Line,Piping,2890,4306
+P&ID Line,Piping,9652,9824
+P&ID Line,Piping,820,822,824,826,828,830,832,9226,9326
+P&ID Line,Piping,834,836,838,840,842,844,846,766,764,4
+P&ID Line,Piping,1100,1102,1104,1106,1108,1110,1112,1186,8914,9290,6458,6486,
+P&ID Line,Piping,1522,1524,1526,1528,1530,1532,1534,1536,1538,1378,1376,5864
+P&ID Line,Piping,1540,1542,1544,1546,1548,1550,1552,1554,1556,1374,1372,4272,
+P&ID Line,Piping,2054,2056,2058,2060,2062,2064,2066,2068,5516,4680,8388,8384,4368,4370,3262,4802
+P&ID Line,Piping,2650,2652,2654,2656,2658,2660,2662,2664,2666,2716,6938,6940,6734,
+P&ID Line,Piping,3076,3078,3080,3082,3084,3086,3088,2950,3014,3012
+P&ID Line,Piping,3302,3304,3306,3308,3310,3312,3314,3316,3318,3814,
+P&ID Line,Piping,4084,4086,4088,4090,4092,4094,4096,498,9210,9260,6080,9292,,9650
+P&ID Line,Piping,7096,7098,7100,7102,7104,7106,7108,7110,7140,7142,9870
+P&ID Line,Piping,8322,8324,8326,8328,8330,8332,8334,8198,3798,
+P&ID Line,Piping,8336,8338,8340,8342,8344,8346,8348,8200,7742,
+P&ID Line,Piping,400,398
+P&ID Line,Piping,5404,,5502
+P&ID Line,Piping,4864,5598,,,4866,5396,4522,,,5640,5638,5634,5636,5642,
+P&ID Line,Piping,5806,5808
+P&ID Line,Piping,4742,4844
+P&ID Line,Piping,4740,4638
+P&ID Line,Piping,1698,5338
+P&ID Line,Piping,3010,3838
+P&ID Line,Piping,116,118,440,468,370,374,376,366,368,364,372,6082
+P&ID Line,Piping,6448,7494,898,6454,6456
+P&ID Line,Piping,8690,8650
+P&ID Line,Piping,9906
+P&ID Line,Piping,5820
+P&ID Line,Piping,3530,
+P&ID Line,Piping,10022,10129,10024,10026,10036,10020
+P&ID Line,Piping,8,6398,74,,6320
+P&ID Line,Piping,2734,2736
+P&ID Line,Piping,3396,
+P&ID Line,Piping,2124,2122,2126
+P&ID Line,Piping,2128,2130,2410
+P&ID Line,Piping,2202,2204,2200
+P&ID Line,Piping,9638,9634,9636
+P&ID Line,Piping,2320,2318,2322,5500
+P&ID Line,Piping,4158,4160,4156
+P&ID Line,Piping,10125
+P&ID Line,Piping,9590
+P&ID Line,Piping,4562,4498,6730,6644,4494,6620,6686,5644,5646
+P&ID Line,Piping,3816
+P&ID Line,Piping,1190,1134
+P&ID Line,Piping,2,
+P&ID Line,Piping,7758,7594,9248,9970,9978,9972,9974,9976,9980,9982
+P&ID Line,Piping,7592
+P&ID Line,Piping,3368,3366,3552,3676,7760,3528,7634
+P&ID Line,Piping,7652,7682
+P&ID Line,Piping,9278
+P&ID Line,Piping,7516
+P&ID Line,Piping,1188
+P&ID Line,Piping,7372,6,6282,72,
+P&ID Line,Piping,9872,6736
+P&ID Line,Piping,9858,9856,7088
+P&ID Line,Piping,5128,5120,2730
+P&ID Line,Piping,,8728
+P&ID Line,Piping,3796,3914
+P&ID Line,Piping,9236
+P&ID Line,Piping,10123,10091,
+P&ID Line,Piping,9570,9568
+P&ID Line,Piping,6270
+P&ID Line,Piping,6314
+P&ID Line,Piping,4496,4500,4502,5270,5272
+P&ID Line,Piping,4326,1610,4412,1612,9162,3294,8526,9198,3296
+P&ID Line,Piping,8970,8972,8974,8976,8966,8968,8964,8732
+P&ID Line,Piping,9308,9310
+P&ID Line,Piping,9166,8382,8524,8560,8380,3260,5218,9928,9926,9930,9918,9920,9922,9924,9932,9934,9202,2888,8386,8482,
+P&ID Line,Piping,8390,2070,1870,1872,1874,1876,1878,1880,1882,5408,5406,5514,
+P&ID Line,Flexible Pipe,5786,5788,5790,5660,5824,5822,6536,6538,6540,6542,5826,
+P&ID Line,Pneumatic Binary Signal Line,3438,3440,3464
+P&ID Line,Pneumatic Binary Signal Line,9388,4128,4132,4130,6020,6022,6024,5894,6026
+P&ID Line,Pneumatic Binary Signal Line,7152,7154,7156,7158,7160,7162
+P&ID Line,Pneumatic Binary Signal Line,7178,7166,7164,7234,7218,7220
+P&ID Line,Pneumatic Binary Signal Line,2766,2768,2770,2874,2876
+P&ID Line,Tracing Line,4386
+P&ID Line,Tracing Line,9436
+P&ID Line,Tracing Line,2458,2460,1682
+P&ID Line,Tracing Line,2448,2446,1684
+P&ID Line,Tracing Line,5518,5568
+P&ID Line,Tracing Line,7312,7354
+P&ID Line,Tracing Line,2678
+P&ID Line,Tracing Line,3344
+P&ID Line,Tracing Line,7062,7014,7036,9896,9904,9898,9900,9902,6998,2714,2712,2732,2710,2708,9164,1616,4324,1614,3298,8528,9200,3300,3498,3496,3480,3494,3818,3364,3362,3346,3360,3394
+P&ID Line,Tracing Line,9908,9910,9912,9914,9916
+P&ID Line,Data-Link,7420,7422,7424,7426,7428,7430,7432,7434,7436,7260,
+P&ID Line,Data Link,9448,9450,9452,9454,9456,9458,9460,9462,9464,9466,9468,9470,9472,9474,9476,9478,9480,9482,9484,9486,9488,9490,9492,9494,9496,9498,9500,9502,9504,9506,9508,9510,9512,9514,9516,9518,9520,9522,9524,9526,9528,9530,9532,9534,9536,9538,9540,9542,9544,9546,9548,9550,9552,9554,2872,3884,5160
+P&ID Line,flow indicator,6518,6520,6522,6524
+P&ID Line,flow indicator,2280,2282,2284,2286
+P&ID Line,flow indicator,2738,2740,2742,2744
+P&ID Line,flow indicator,6348,6350,6322,6324
+P&ID Line,flow indicator,6352,6354,6380,6378
+P&ID Line,flow indicator,3532,3534,3536,3538
+P&ID Line,flow indicator,900,902,,926,928
+P&ID Line,flow indicator,120,122,146,148
+P&ID Line,flow indicator,4524,4526,4550,4552,
+P&ID Line,flow indicator,6690,6692,6716,6718,
+P&ID Line,flow indicator,4868,4870,4894,4896
+P&ID Line,flow indicator,5470,5472,5496,5498
+P&ID Line,flow indicator,8320,8318,8292,8294
+P&ID Line,flow indicator,8258,8260,8232,8234
+P&ID Line,flow indicator,8202,8204,8228,8230
+P&ID Line,flow indicator,8288,8290,8262,8264
+P&ID Line,flow indicator,526,528,500,502
+P&ID Line,flow indicator,550,552,576,578
+P&ID Line,flow indicator,3942,3944,3916,3918
+P&ID Line,flow indicator,3046,3048,3072,3074,
+P&ID Line,flow indicator,3042,3044,3016,3018
+P&ID Line,flow indicator,6968,6970,6994,6996,
+P&ID Line,flow indicator,6938,6940,6964,6966
+P&ID Line,flow indicator,4342,4344,
+P&ID Line,flow indicator,4804,4806,4830,4832,4812
+P&ID Line,flow indicator,4650,4652,4676,4678
+P&ID Line,flow indicator,8422,8424,8448,8450
+P&ID Line,flow indicator,8392,8394,8418,8420,
+P&ID Line,flow indicator,3264,3266,3290,3292,3272
+P&ID Line,flow indicator,1406,1408,1380,1382
+P&ID Line,flow indicator,1410,1412,1436,1438,
+P&ID Line,flow indicator,1440,1442,1466,1468
+P&ID Line,flow indicator,8986,8984,9010,9012
+P&ID Line,flow indicator,10,12,38,36
+P&ID Line,flow indicator,850,848,874,876
+P&ID Line,flow indicator,7546,7548,7550,7552
+P&ID Line,flow indicator,6312,6310,6284,6286
+P&ID Line,flow indicator,3678,3680,3704,3706
+P&ID Line,flow indicator,3644,3646,3670,3672
+P&ID Line,flow indicator,3614,3616,3640,3642
+P&ID Line,flow indicator,6648,6646,6672,6674
+P&ID Line,flow indicator,7762,7764,7788,7790
+P&ID Line,flow indicator,4610,4612,4586,4584,
+P&ID Line,flow indicator,7792,7794,7818,7820
+P&ID Line,flow indicator,4180,4182,4184,4186
+P&ID Line,flow indicator,6612,6614,6640,6638,
+P&ID Line,flow indicator,6544,6546,6570,6572
+P&ID Line,flow indicator,9616,9618,9620,9622
+P&ID Line,flow indicator,2262,2264,2266,2268,
+P&ID Line,flow indicator,2182,2184,2186,2188
+P&ID Line,flow indicator,2164,2166,2168,2170
+P&ID Line,flow indicator,2412,2414,2416,2418
+P&ID Line,flow indicator,4162,4164,4166,4168
+P&ID Line,flow indicator,9598,9600,9602,9604
+P&ID Line,flow indicator,2370,2372,2374,2368
+P&ID Line,flow indicator,2386,2388,2390,2392
+P&ID Line,flow indicator,2350,2352,2354,2356
+P&ID Line,flow indicator,9358,9360,9384,9386
+P&ID Line,flow indicator,3410,3412,3414,3416
+P&ID Line,flow indicator,9126,9128,9130,9132
+P&ID Line,flow indicator,9144,9146,9148,9150
+P&ID Line,flow indicator,9108,9110,9112,9114
+P&ID Line,flow indicator,9394,9396,9398,9400
+P&ID Line,flow indicator,7528,7530,7532,7534
+P&ID Line,flow indicator,6908,6910,6934,6936
+P&ID Line,flow indicator,8936,8934,8960,8962,
+P&ID Line,flow indicator,4580,4582,4556,4554
+P&ID Line,flow indicator,9296
+P&ID Line,flow indicator,9556,
+P&ID Line,flow indicator,8452,8454,8478,8480
+P&ID Line,flow indicator,9168,9170,9194,9196
+P&ID Line,flow indicator,8530,8532,8556,8558,
+P&ID Line,flow indicator,5410,5412,5436,5438
+P&ID Line,flow indicator,5442,5440,5466,5468,
+P&ID Line,flow indicator,6488,,6514,6516,6490
+P&ID Line,flow indicator,2074,2072,2100,2098
+P&ID Line,flow indicator,5274,5276,5300,5302
+P&ID Line,flow indicator,1620,1618,1646,1644
+P&ID Line,flow indicator,3708,3710,3734,3736
+P&ID Line,flow indicator,6582,6584,6608,6610
+P&ID Line,flow indicator,320,322,346,348
+P&ID Line,flow indicator,9826,9828,9852,9854
+P&ID Line,flow indicator,4046,4048,4072,4074
+P&ID Line,flow indicator,10119,10121,10093,10095
+P&ID Line,flow indicator,3580,3582,3554,3556
+P&ID Line,flow indicator,3584,3586,3610,3612
+P&ID Line,flow indicator,2498,2496,2522,2524
+P&ID Line,flow indicator,2528,2526,2552,2554
+P&ID Line,flow indicator,3964,3966,3990,3992
+P&ID Line,flow indicator,2466,2468,2492,2494
+P&ID Line,flow indicator,4228,4230,4254,4256
+P&ID Line,flow indicator,4198,4200,4224,4226
+P&ID Line,flow indicator,9328,9330,9356,9354,
+P&ID Valve,Ball Valve,9860,9862,9864,9866,9868
+P&ID Valve,Rotary Valve,7386,7388,7390,7144,7394
+P&ID Valve,Rotary Valve,9428,9430,9432
+P&ID Valve,Port Connection Upon Power Loss (Combined),7198,7202,7206,7214,7216
+P&ID Valve,Closing Upon Loss of Powering Medium (Combined),7180,7182,7186,7190
+P&ID Valve,Solenoid Actuator (Combined),7222,7224,7226,7228,7230,7232
+P&ID Valve,Angle Valve Operated-Hand,4278,4280,4282,4284,4286,4288,4290,4292,4294,7456,7458,4274,4276
+P&ID Valve,Angle Valve Operated-Hand,4394,4396,4398,4400,4402,4404,4406,4408,4410,4414,4416,7452,7454,4392
+P&ID Valve,Globe Valve (Combined),1152,1154,1156,1158,1160,,1178,
+P&ID Valve,Globe Valve,442,444,446,448,450,466
+P&ID Valve,Globe Valve,6460,6462,6464,6466,6468,6484
+P&ID Valve,Valve (General) (Combined),2156,2158,2160,2162,7842
+P&ID Valve,Valve (General) (Combined),,2302,2304,2306,2308,2310,7838,7840
+P&ID Valve,Valve (General) (Combined),,2340,2342,2344,2346,2348,7834,7836
+P&ID Valve,Valve (General) (Combined),2308,2302,2304,2306
+P&ID Valve,Valve (General),7686,7688,7690,7692,7694
+P&ID Valve,Valve (General),6438,6440,6442,6444,6446
+P&ID Valve,Valve (General),3784,3786,3788,3790,3792
+P&ID Valve,Valve (General),4728,4730,4732,4734,4736
+P&ID Valve,Valve (General),3774,3776,3778,3780,3782
+P&ID Valve,Valve (General),4504,4506,4508,4510,4512
+P&ID Valve,Valve (General),2952,2954,2956,2958,2960
+P&ID Valve,Valve (General),1136,1138,1140,1142,1144
+P&ID Valve,Valve (General),9996,9998,10000,10002,6450,9994
+P&ID Valve,Valve (General),10028,10030,10032,10034,10042
+P&ID Valve,Valve (General),9986,9988,9990,9992,9984
+P&ID Valve,Valve (General),9944,9946,9948,9950,9942,4912
+P&ID Valve,Valve (General),40,42,44,46,48
+P&ID Valve,Valve (General),50,52,54,56,58,
+P&ID Valve,Valve (General),402,404,406,408,410
+P&ID Valve,Valve (General),412,414,416,418,420
+P&ID Valve,Valve (General),422,424,426,428,430
+P&ID Valve,Valve (General),470,472,474,476,478
+P&ID Valve,Valve (General),,1114,1116,1118,1120,1122
+P&ID Valve,Valve (General),1124,1126,1128,1130,1132
+P&ID Valve,Valve (General),2878,2880,2882,2884,2886
+P&ID Valve,Valve (General),2894,2896,2898,2900,2902
+P&ID Valve,Valve (General),2904,2906,2908,2910,2912
+P&ID Valve,Valve (General),2940,2942,2944,2946,2948
+P&ID Valve,Valve (General),2988,2990,2992,2994,2996
+P&ID Valve,Valve (General),2998,3000,3002,3004,3006
+P&ID Valve,Valve (General),3400,3402,3404,3406,3408
+P&ID Valve,Valve (General),3428,3430,3432,3434,3436,
+P&ID Valve,Valve (General),3738,3740,3742,3744,3746
+P&ID Valve,Valve (General),3840,3842,3844,3846,3848
+P&ID Valve,Valve (General),3898,3900,3902,3904,3906
+P&ID Valve,Valve (General),4296,4298,4300,4302,4304
+P&ID Valve,Valve (General),4640,4642,4644,4646,4648
+P&ID Valve,Valve (General),4682,4684,4686,4688,4690
+P&ID Valve,Valve (General),4718,4720,4722,4724,4726
+P&ID Valve,Valve (General),4746,4748,4750,4752,4754
+P&ID Valve,Valve (General),4756,4758,4760,4762,4764
+P&ID Valve,Valve (General),4792,4794,4796,4798,4800
+P&ID Valve,Valve (General),4834,4836,4838,4840,4842
+P&ID Valve,Valve (General),5104,5106,5108,5110,5112
+P&ID Valve,Valve (General),5162,5164,5166,5168,5170
+P&ID Valve,Valve (General),5220,5222,5224,5226,5228
+P&ID Valve,Valve (General),5322,5324,5326,5328,5330
+P&ID Valve,Valve (General),5386,5388,5390,5392,5394
+P&ID Valve,Valve (General),5504,5506,5508,5510,5512,
+P&ID Valve,Valve (General),5810,5812,5814,5816,5818
+P&ID Valve,Valve (General),5878,5880,5882,5884,5886,5892,
+P&ID Valve,Valve (General),6382,6384,6386,6388,6390
+P&ID Valve,Valve (General),6676,6678,6680,6682,6684
+P&ID Valve,Valve (General),6720,6722,6724,6726,6728
+P&ID Valve,Valve (General),7026,7028,7030,7032,7034,7384
+P&ID Valve,Valve (General),7130,7132,7134,7136,7138
+P&ID Valve,Valve (General),7362,7364,7366,7368,7370,10131
+P&ID Valve,Valve (General),7642,7644,7646,7648,7650
+P&ID Valve,Valve (General),7660,7662,7664,7666,7668
+P&ID Valve,Valve (General),7696,7698,7700,7702,7704
+P&ID Valve,Valve (General),7732,7734,7736,7738,7740
+P&ID Valve,Valve (General),8484,8486,8488,8490,8492
+P&ID Valve,Valve (General),8612,8614,8616,8618,8620
+P&ID Valve,Valve (General),8634,8636,8638,8640,8642
+P&ID Valve,Valve (General),8652,8654,8656,8658,8660
+P&ID Valve,Valve (General),8680,8682,8684,8686,8688
+P&ID Valve,Valve (General),8718,8720,8722,8724,8726
+P&ID Valve,Valve (General),8904,8906,8908,8910,8912
+P&ID Valve,Valve (General),9250,9252,9254,9256,9258
+P&ID Valve,Valve (General),9268,9270,9272,9274,9276
+P&ID Valve,Valve (General),9640,9642,9644,9646,9648,10044
+P&ID Valve,Hand-Operated (Combined),2336,2338
+P&ID Valve,Hand-Operated (Combined),2154,2152
+P&ID Valve,Hand-Operated (Combined),2298,2300
+P&ID Valve,Hand-Operated (Combined),5080,5082
+P&ID Valve,Hand-Operated (Combined),5154,5152
+P&ID Valve,Hand-Operated (Combined) ,9574,9576
+P&ID Valve,Butterfly Valve,2680,2682,2684,2694,2700,2704,2706
+P&ID Valve,Butterfly Valve,3370,3372,3374,3384,3390,3392,3398,6732
+P&ID Valve,Butterfly Valve,3502,3504,3506,3516,3522,3500,3526,
+P&ID Valve, Check Valve,6420,6424,6428,6430,6432,6434,6436
+P&ID Valve, Check Valve,7044,7048,,7052,7054,7056,7058,7060
+P&ID Valve, Check Valve,,,,7070,,7074,,7078,7080,7082,7084,7086
+P&ID Valve, Check Valve,,,,9880,,9884,,9888,9890,9892,9894
+P&ID Valve, Check Valve,6056,6062,6066,6070,6072,6074,6076,6078
+P&ID Valve, Three Way Valve (Combined),7168,7170,7172,7174,7176
+P&ID Valve,Diaphragm Actuator (Combined),5076,5078,,5084
+P&ID Valve,Diaphragm Actuator (Combined),5148,,5150,5156,5158
+P&ID Valve,Diaphragm Actuator (Combined),7148,7146,7150
+P&ID Valve,Diaphragm Actuator (Combined),1182,1180,1184
+P&ID Valve,Pressure Relief Valve,10050,10052,10054,10058,10060,10062,10064,10066,10068,10070,10072
+P&ID Valve,Pressure Relief Valve,768,770,772,774,776,778,780,782
+P&ID Information,Note,7396
+P&ID Information,Note,5122
+P&ID Information,Note,5124
+P&ID Information,Note,5050
+P&ID Information,Note,5052
+P&ID Information,Note,3820
+P&ID Information,Note,9426
+P&ID Information,Graphical Information,5656,4418,4420,4422,4424
+P&ID Information,Cloud,10133,10135,10137,10139,10141,10143,10145,10147,10149,10151,10153,10155,10157,10159,10161,10163,10165,10167,10169,10171,10173,10175,10177,10179,10181,10183,10185,10187,10189,10191,10193,10195,10197,10199,10201,10203,10205,10207,10209,10211,10213,10215,10217,10219,10221,10223,10225,10227,10229,10231,10233,10235,10237,10239,10241,10243,10245,10247,10249,10251,10253,10255,10257,10259,10261,10263,10265,10267,10269,10271,10273,10275,10277,10279,10281,10283,10285,10287,10289,10291,10293,10295,10297,10299,10301,10303,10305,10307,10309,10311,10313,10315,10317,10319,10321,10323,10325,10327,10329,10331,10333,10335,10337,10339,10341,10343,10345,10347,10349,10351,10353,10355,10357,10359,10361,10363,10365,10367,10369,10371,10373,10375,10377,10379,10381,10383,10385,10387,10389,10391,10393,10395,10397,10399,10401,10403,10405,10407,10409,10411,10413,10415,10417,10419,10421,10423,10425,10427,10429,10431,10433,10435,10437,10439,10441,10443,10445,10447,10449,10451,10453,10455,10457,10459,10461,10463,10465,10467,10469,10471,10473,10475,10477,10479,10481,10483,10485,10487,10489,10491,10493,10495,10497,10499,10501,10503,10505,10507,10509,10511,10513,10515,10517,10519,10521,10523,10525,10527,10529,10531,10533,10535,10537,10539,10541,10543,10545,10547,10549,10551,10553,10555,10557,10559,10561,10563,10565,10567,10569,10571,10573,10575,10577,10579,10581,10583,10585,10587,10589,10591,10593,10595,10597,10599,10601,10603,10605,10607,10609,10611,10613,10615,10617,10619,10621,10623,10625,10627,10629,10631,10633,10635,10637,10639,10641,10643,10645,10647,10649,10651,10653,10655,10657,10659,10661,10663,10665,10667,10669,10671,10673,10675,10677,10679
+P&ID Equipment,Component Box,7572,7574,7576,7578
+P&ID Equipment,Component Box,7606,7608,7610,7612
+P&ID Equipment,Component Box,7582,7584,7586,7588
+P&ID Equipment,Component Box,7564,7566,7568,7570
+P&ID Equipment,Component Box,8692,8694,8696,8698
+P&ID Equipment,Component Box,7598,7600,7602,7604
+P&ID Equipment,Heat Exchanger,6224,6226,6228,6230,6232,6218,6220,6222,6238,6240,6242,6234,6236
+P&ID Equipment,Sulfur Condenser,1240,1364,1242,5872,1244,1238,1246,1228,1368,1366,1370,1232,1234,4614,4616,1692,1696,4618,1694,1690,1688,1236,4520,1230,5654,1252,9204,9206,9208
+P&ID Equipment,Trench,9316,9318,9320,9322,9324,9314
+P&ID Connector,Plug Connection,9416,9418,9420,9422
+P&ID Information,Revision Triangle,,10681,10683
+P&ID Information,Revision Triangle,10685,10687
+P&ID Information,Border,10697
+P&ID Information,Border,10689,10691,10693,10701
+P&ID Information,Piping Class Change,,9300,9302,9298,9312,9304,9306
+P&ID Information,Piping Class Change,,9560,9562,9572,9558,9566,9564
+P&ID Information,Piping Class Change,9938,9936,9940
+P&ID Information,Piping Speciality Item,7006,7000,7002,7004,7008,7010,7012,7016,7018,7020,7022,7024
+P&ID Information,Piping Speciality Item,3800,3802,3804,3806,3808,3810,3812,3334,3336,3338,3340,3342
+P&ID Information,Piping Speciality Item,5054,5056,5058,5060,5062,5068,5070,5072,5074,5066,5064
+P&ID Information,Piping Speciality Item,8578,8576,8580,8582,8584,8590,8592,8596,,8586,8588,8594
+P&ID Information,Piping Speciality Item,2588,2590,2592,2594,2596,2598,2600,2602,2604,2606,2608,2610
+P&ID Information,Piping Speciality Item,8350,8352,8354,8356,8358,8360,8362
+P&ID Information,Piping Speciality Item,8364,8366,8368,8370,8372,8374,8376
+P&ID Information,Piping Speciality Item,5198,5200,5202,5204,5206,5208,5210
+P&ID Information,Piping Speciality Item,7844,7846,7848,7850,7852,7854,7856
+P&ID Information,Piping Speciality Item,2102,2104,2106,2108,2110,2112,2114
+P&ID Information,Piping Speciality Item,5612,5614,5616,5618,5620,5622,5624,5626,5628,5630,5632
+P&ID Information,Piping Speciality Item,5340,5342,5344,5346,5348,5350,5352,5354,5356,5358,5360
+P&ID Information,Piping Speciality Item,5590,5592,5594,5596,5598,5600,5602,5604,5606,5608,5610
+P&ID Information,Piping Speciality Item,5248,5250,5252,5254,5256,5258,5260,5262,5264,5266,5268
+P&ID Information,Piping Speciality Item,2612,2614,2616,2618,2620,2622,2624,2626,2628,2630,2632,2634
+P&ID Information,Piping Speciality Item,94,96,98,100,102,104,106,108,110,112,114
+P&ID Information,Piping Speciality Item,6244,6246,6248,6250,6252,6254,6256
+P&ID Information,Piping Speciality Item,6042,6044,6046,6048,6050,6052,6054
+P&ID Information,Piping Speciality Item,6400,6402,6404,6406,6408,6410,6412
+P&ID Information,Piping Speciality Item,7472,7474,7476,7478,7480,7482,7484
+P&ID Information,Piping Speciality Item,786,788,790,792,794,796,798
+P&ID Information,Piping Speciality Item,6028,6030,6032,6034,6036,6038,6040
+P&ID Information,Piping Speciality Item,4258,4260,4262,4264,4266,4268,4270
+P&ID Information,Piping Speciality Item,1470,1472,1474,1476,1478,1480,1482
+P&ID Information,Piping Speciality Item,5850,5852,5854,5856,5858,5860,5862
+P&ID Information,Piping Speciality Item,,5828,5830,5832,5834,5836,5838,5840
+P&ID Information,Piping Speciality Item,5126,5128,5130,5132,5134,5136,5138,5140,5142,5144,5146
+P&ID Information,Piping Speciality Item,3860,3862,3864,3866,3868,3870,3872,2668,2670,2672,2674,2676
+P&ID Information,Piping Speciality Item,7494,7496,7498,7500,7502,7504,7506
+P&ID Information,Piping Speciality Item,1596,1598,1600,1602,1604,1606,1608
+P&ID Information,Piping Speciality Item,7460,7462,7464,7466,7468,7470
+P&ID Information,Information Text,6688,5844,5846,5848
+P&ID Information,Information Text,10703,10705,10707,9424
+P&ID Information,System Tag Number,3886,3888,3890,3892,3894,
+P&ID Information,System Tag Number,4314,4316,4318,4320,4322,
+P&ID Information,System Tag Number,4622,4624,4626,4628,4630,
+P&ID Information,System Tag Number,7672,7674,7676,7678,7680,
+P&ID Information,System Tag Number,7822,7824,7826,7828,7830,
+P&ID Information,System Tag Number,8700,8702,8704,8706,8708,
+P&ID Information,System Tag Number,4852,4854,4856,4858,,4860
+P&ID Information,System Tag Number,7440,7442,7444,7446,,7448
+P&ID Information,System Tag Number,3850,3852,3854,3856,3858
+P&ID Information,System Tag Number,486,488,490,492,494
+P&ID Information,Connecter Line,4862
+P&ID Information,Connecter Line,7450
+P&ID Information,Connecter Line,7590
+P&ID Information,Connecter Line,496
+P&ID Information,Connecter Line,3896
+P&ID Information,Connecter Line,7580
+P&ID Information,Connecter Line,4620
+P&ID Information,Connecter Line,7670
+P&ID Information,Connecter Line,7832
+P&ID Information,Connecter Line,8710
+
+
+
